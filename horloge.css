@@ -1,0 +1,12 @@
+.clock {
+    border-radius: 50%;
+    background: #fff;
+    border: 5px solid white;
+    box-shadow: inset 2px 3px 8px 0 rgba(0, 0, 0, 0.1);
+}
+
+.wrap {
+    position: relative;
+    width: 350px;
+    height: 350px;
+}
