@@ -31,3 +31,18 @@
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
     transform: rotate(90deg);
 }
+
+.seconde {
+    position: absolute;
+    height: 90px;
+    width: 2px;
+    margin: auto;
+    top: -26%;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    border-radius: 4px;
+    background: #ff4b3e;
+    transform-origin: bottom center;
+    transform: rotate(180deg);
+}
